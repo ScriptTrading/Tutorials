@@ -7,7 +7,8 @@ You can find additional tutorials and further description in our blog:
 
 ## IMPORTANT
 ### AgenaTrader version number
-These scripts are compiled against AT 1.9.0.615.
+These scripts are compiled against AT 2.0.1.56.
+Because of the new AgenaTrader API you need at least AgenaTrader 2.0.1.56.
 
 ## Contact us
 If you have any questions, feedback for us or you have particular wishes please do not hesitate to contact us:
